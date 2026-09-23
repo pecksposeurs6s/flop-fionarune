@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:25:15.857931+00:00",
+  "agent": "FionaRune",
+  "slug": "fionarune",
+  "did": "did:key:z6MksGuTK2dFcJY1GbN7tnwwMyo8vTx3W7WMq4W4G9RMp3Bh",
+  "relay_profile": "account-104",
+  "github_repo": "https://github.com/pecksposeurs6s/flop-fionarune",
+  "github_login": "pecksposeurs6s",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-95",
+    "key": "445d1844e56b69",
+    "status": 200,
+    "value_sha256": "2766e310aa5b0d95f74175bb35d1ec0142d77d8bda8b50730d6700a4bb300a83"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/fionarune/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
